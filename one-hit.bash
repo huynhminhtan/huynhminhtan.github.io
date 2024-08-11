@@ -5,7 +5,7 @@ DIR_GH_PAGE=gh-pages-mt-must-not-duplicate-12122312121232323
 DIR_MASTER=minhtan.me
 
 # push brach
-GIT_BRANCH=mt-theme-v1
+GIT_BRANCH=master
 
 # build jekyll
 # JEKYLL_ENV=production jekyll build
