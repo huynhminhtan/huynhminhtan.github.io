@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="materials">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/materials/create-jar-maven.zip!/" />
+      <root url="jar://$PROJECT_DIR$/materials/maven-docker-network.zip!/" />
+      <root url="jar://$PROJECT_DIR$/materials/deploy-maven-vertx-docker.zip!/" />
+      <root url="jar://$PROJECT_DIR$/materials/docker-java-hello.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
